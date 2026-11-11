@@ -19,22 +19,22 @@
 
 ### Package insert
 
-**1 Indications and usage**
+**1 Indications and usage**  
 Vibecodine is indicated for the acute and maintenance treatment of chronic okayness, background silence intolerance and mild-to-moderate existential flatness in adults who have exhausted all conventional playlist-based therapies.
 
-**2 Dosage and administration**
+**2 Dosage and administration**  
 Administer one track via headphones, one to three times daily, or as needed. The free radio dispenses continuously and requires no prescription, no account and no card.
 
-**3 Dosage forms and strengths**
+**3 Dosage forms and strengths**  
 Six molecules, each a family of audio capsules. Every capsule is labelled with its origin: Prompted, Hand compounded, Synthesized or Human.
 
-**4 Contraindications**
+**4 Contraindications**  
 Meetings. Performance reviews. Any situation requiring sustained emotional gravitas.
 
-**5 Warnings and precautions**
+**5 Warnings and precautions**  
 The relief is real. The pharmacy is not. If euphoria persists beyond your commute, consult your algorithm.
 
-**6 Adverse reactions**
+**6 Adverse reactions**  
 Involuntary head nodding, temporary absence of dread, spontaneous air guitar and, in rare cases, smiling for no reason. Discontinue if persistent.
 
 ---
