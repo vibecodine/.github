@@ -1,8 +1,17 @@
 <p align="center">
-  <a href="https://vibecodine.fm"><img src="https://raw.githubusercontent.com/vibecodine/.github/main/assets/vibecodine-v.png" width="112" alt="Vibecodine"></a>
+  <a href="https://vibecodine.fm"><img src="https://raw.githubusercontent.com/vibecodine/.github/main/assets/comprime.png" width="120" alt="Vibecodine pill"></a>
 </p>
 
-<h1 align="center">Vibecodine Pharmaceuticals</h1>
+<p align="center">
+  <a href="https://vibecodine.fm">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vibecodine/.github/main/assets/mot-encre.png">
+      <img src="https://raw.githubusercontent.com/vibecodine/.github/main/assets/mot-blanc.png" width="480" alt="vibecodine">
+    </picture>
+  </a>
+</p>
+
+<p align="center"><b>Vibecodine Pharmaceuticals</b> · Choose your vibe.</p>
 
 <p align="center">
   <b>Prescription-strength background music.</b><br>
@@ -10,9 +19,9 @@
 </p>
 
 <p align="center">
-  <a href="https://vibecodine.fm"><img src="https://img.shields.io/badge/dispensary-vibecodine.fm-FF8A6B?style=flat-square&labelColor=1E1A18" alt="Dispensary: vibecodine.fm"></a>
-  <img src="https://img.shields.io/badge/FDA-disapproved-1E1A18?style=flat-square&labelColor=FF8A6B" alt="FDA: disapproved">
-  <img src="https://img.shields.io/badge/side%20effects-common-1E1A18?style=flat-square&labelColor=FF8A6B" alt="Side effects: common">
+  <a href="https://vibecodine.fm"><img src="https://img.shields.io/badge/dispensary-vibecodine.fm-F2967C?style=flat-square&labelColor=1C1917" alt="Dispensary: vibecodine.fm"></a>
+  <img src="https://img.shields.io/badge/FDA-disapproved-1C1917?style=flat-square&labelColor=F2967C" alt="FDA: disapproved">
+  <img src="https://img.shields.io/badge/side%20effects-common-1C1917?style=flat-square&labelColor=F2967C" alt="Side effects: common">
 </p>
 
 ---
